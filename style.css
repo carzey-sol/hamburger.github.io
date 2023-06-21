@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.chill{
+    font-size: 25px;
+    width: 90px;
+    border-radius: 10%;
+    cursor: pointer;
+    
+    
+}
+.ham{
+    background-color: red;
+    width: 100px;
+    padding: 10px 20px;
+    visibility: hidden;
+    
+    
+}
+.ham ul li{
+    list-style: none;
+    cursor: pointer;
+}
